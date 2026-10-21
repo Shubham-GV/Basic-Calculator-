@@ -21,6 +21,6 @@ Download or clone this repo and open `index.html` in any browser. No installatio
 - Using Git and GitHub
 
 ## Future ideas
-- Percentage and square-root buttons
 - Calculation history
 - Light/dark theme toggle
+-  Percentage and square-root buttons
